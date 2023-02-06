@@ -11,6 +11,7 @@ public class Calculator {
         int result = first - second;
         System.out.println(result);
     }
+
     public static void main(String[] args) {
         plus(1, 2);
         plus(10, 11);
